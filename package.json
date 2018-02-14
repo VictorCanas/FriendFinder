@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Week 13 Homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorCanas/FriendFinder.git"
+  },
+  "keywords": [
+    "node",
+    "and",
+    "express"
+  ],
+  "author": "Victor Canas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorCanas/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/VictorCanas/FriendFinder#readme"
+}
